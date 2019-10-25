@@ -1,8 +1,12 @@
 /* pages/home/home.wxss */
 
-.viewRed {
+page {
+    background-color: rgb(226, 169, 169);
+}
+
+/* .viewRed {
   width: 100px;
   height: 100px;
   background-color: red;
 
-}
+} */

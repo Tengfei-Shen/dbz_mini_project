@@ -7,14 +7,12 @@
     "pages/found/found"
   ],
 
-
-//测试下看看
-
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#CC99FF",
     "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
   },
 
   "tabBar": {

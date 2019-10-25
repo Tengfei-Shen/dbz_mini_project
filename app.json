@@ -21,20 +21,20 @@
     "list": [
       {
         "pagePath": "pages/home/home",
-        "selectedIconPath": "/pages/image/icon_success.png",
-        "iconPath": "/pages/image/icon_number_list.png",
+        "selectedIconPath": "/image/icon_success.png",
+        "iconPath": "/image/icon_number_list.png",
         "text": "首页"
       },
       {
         "pagePath": "pages/found/found",
-        "selectedIconPath": "/pages/image/icon_success.png",
-        "iconPath": "/pages/image/icon_number_list.png",
+        "selectedIconPath": "/image/icon_success.png",
+        "iconPath": "/image/icon_number_list.png",
         "text": "发现"
       },
       {
         "pagePath": "pages/mine/mine",
-        "selectedIconPath": "/pages/image/icon_success.png",
-        "iconPath": "/pages/image/icon_number_list.png",
+        "selectedIconPath": "/image/icon_success.png",
+        "iconPath": "/image/icon_number_list.png",
         "text": "我的"
       }
     ]
